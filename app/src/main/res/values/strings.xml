@@ -1,0 +1,66 @@
+<resources>
+
+    <string name="app_name">배달</string>
+
+    <string name="title01">버거킹</string>
+    <string name="telephone01">02-2602-0332</string>
+    <string name="address01">주소 : 서울특별시 양천구 신정동 994-2</string>
+    <string name="picture01">burgerkingpicture</string>
+    <string name="map01">burgerkingmap</string>
+    <string name="site01">http://www.burgerking.co.kr/m</string>
+
+    <string name="title02">미스터 피자</string>
+    <string name="telephone02">02-2647-5400</string>
+    <string name="address02">주소 : 서울특별시 양천구 목동 807-5 가인빌딩 1층</string>
+    <string name="picture02">pizzapicture</string>
+    <string name="map02">pizzamap</string>
+    <string name="site02">http://m.mrpizza.co.kr/</string>
+
+    <string name="title03">BHC</string>
+    <string name="telephone03">02-2694-7272</string>
+    <string name="address03">주소 : 서울 양천구 오목로 215-1</string>
+    <string name="picture03">chickenpicture</string>
+    <string name="map03">chickenmap</string>
+    <string name="site03">http://m.bhc.co.kr/</string>
+
+
+    <string name="menuone01">burgerking1</string>
+    <string name="menuone_name01">트러플콰트로머쉬룸 스테이크버거 세트</string>
+    <string name="menutwo01">burgerking2</string>
+    <string name="menutwo_name01">통새우와퍼 주니어 세트</string>
+    <string name="menuthree01">burgerking3</string>
+    <string name="menuthree_name01">콰트로치즈와퍼 주니어 세트</string>
+    <string name="menufour01">burgerking4</string>
+    <string name="menufour_name01">BLT뉴올리언스 치킨버거 세트</string>
+    <string name="menufive01">burgerking5</string>
+    <string name="menufive_name01">텐더킹</string>
+    <string name="menusix01">burgerking6</string>
+    <string name="menusix_name01">너겟킹</string>
+
+    <string name="menuone02">pizza1</string>
+    <string name="menuone_name02">큐브스테이크</string>
+    <string name="menutwo02">pizza2</string>
+    <string name="menutwo_name02">갈릭버터쉬림프</string>
+    <string name="menuthree02">pizza3</string>
+    <string name="menuthree_name02">토핑킹</string>
+    <string name="menufour02">pizza4</string>
+    <string name="menufour_name02">치즈스테이크</string>
+    <string name="menufive02">pizza5</string>
+    <string name="menufive_name02">직화불고기</string>
+    <string name="menusix02">pizza6</string>
+    <string name="menusix_name02">베이컨포테이토</string>
+
+    <string name="menuone03">chicken1</string>
+    <string name="menuone_name03">소이 바베큐</string>
+    <string name="menutwo03">chicken2</string>
+    <string name="menutwo_name03">갈비레오</string>
+    <string name="menuthree03">chicken3</string>
+    <string name="menuthree_name03">뿌링클</string>
+    <string name="menufour03">chicken4</string>
+    <string name="menufour_name03">맛초킹</string>
+    <string name="menufive03">chicken5</string>
+    <string name="menufive_name03">해바라기 후라이드</string>
+    <string name="menusix03">chicken6</string>
+    <string name="menusix_name03">커리퀸</string>
+
+</resources>
